@@ -8,7 +8,7 @@ This is a collection of people, papers, blogs, etc. related to object tracking.
 ## Paper
 
 ### CVPR 2017
-
+- Matthias Mueller, Neil Smith, Bernard Ghanem. "Context-Aware Correlation Filter Tracking." (Oral)  [[paper](http://link.zhihu.com/?target=https%3A//ivul.kaust.edu.sa/Documents/Publications/2017/Context-Aware%2520Correlation%2520Filter%2520Tracking.pdf)] [[project](http://link.zhihu.com/?target=https%3A//ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx)] [[code](http://link.zhihu.com/?target=https%3A//github.com/thias15/Context-Aware-CF-Tracking)]
 
 ### CVPR 2016
 ### CVPR 2015
